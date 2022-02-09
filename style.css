@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+}
+
+.mainbox{
+    width: 60%;
+    height: 400px;
+    margin: auto;
+    margin-top: 20px;
+    border: 2px solid;
+}
+
+.mainbox button{
+    width: 50%;
+    /* display: block;
+    margin: auto; */
+    padding: 20px 0px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.box{
+    width: 250px;
+    height: 250px;
+    margin: auto;
+    margin-top: 25px;
+    background: red;
+}
